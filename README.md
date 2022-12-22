@@ -17,7 +17,8 @@ __Quer conhecer nossos projetos na Udemy?:  **[Acesse aqui](https://www.udemy.co
 -
 ![Gráfico de Linhas](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-linha.png "Gráfico de Linhas")
 
--
+
+> chart.component.ts
 
 ```typescript
 import { Component } from '@angular/core';
@@ -97,6 +98,55 @@ lineChartOptions = {
 }
 
 ```
+
+> chart.component.html
+
+```html
+
+<div class="content">
+    <div class="margem-chart">
+        <div class="row">
+            <div [@.disabled]="true">
+                <mat-tab-group dynamicHeight>
+                  <mat-tab label="Gráfico de Coluna">
+                  <ng-template matTabContent>
+
+                    <canvasjs-chart
+                      [options]="columnChartOptions"
+                      [styles]="{ width: '100%', height: '460px' }"
+                    ></canvasjs-chart>
+
+                  </ng-template>
+                </mat-tab>
+                <mat-tab label="Gráfico Pizza">
+                   <ng-template matTabContent>
+
+                    <canvasjs-chart
+                    [options]="pieChartOptions"
+                    [styles]="{ width: '100%', height: '460px' }"
+                  ></canvasjs-chart>
+
+                   </ng-template>
+                </mat-tab>
+                <mat-tab label="Gráfico de Linha">
+                   <ng-template matTabContent>
+
+                    <canvasjs-chart
+                    [options]="lineChartOptions"
+                    [styles]="{ width: '100%', height: '460px' }"
+                  ></canvasjs-chart>
+
+                   </ng-template>
+                 </mat-tab>
+               </mat-tab-group>
+              </div>
+        </div>
+    </div>
+</div>
+
+
+```
+
 
 > # ChartTabsInAngularMaterial
 
