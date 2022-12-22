@@ -1,23 +1,24 @@
-### Repositório Oficial do Projeto MedicalManagement-Sys
-
-### Curso de Asp.Net Core 5.0 (Início em 2.2) - Do Zero ao Ninja
+### Repositório Oficial do Charts in Tabs | Angular Material
 
 ---
 
-__Quer conhecer nosso projeto? Acesse o curso na Udemy:  **[Acesse aqui](https://www.udemy.com/course/curso-de-aspnet-core-mvc-2-2-do-zero-ao-ninja/?referralCode=41B345D11D74CEDD7E57)**.__
+__Quer conhecer nossos projetos na Udemy?:  **[Acesse aqui](https://www.udemy.com/user/carlos-alberto-dos-santos-34/)**.__
+
+
+> #### *Imagens do Projeto*
+
+
+![Gráfico de Barras](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-barras.png "Gráfico de Barras")
 
 ---
-### *A partir deste ponto começaremos com as Seções Avançadas*
+![Gráfico de Pizza](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-pizza.png "Gráfico de Pizza")
+
 ---
-
-> #### *Que fique claro que esta RC é do Projeto Aula e não do nosso Caso de Uso*
-
-
-![Tela Inicial do Projeto MedicalManagenet-Sys](https://user-images.githubusercontent.com/1213751/71663844-87052780-2d35-11ea-95c0-623a74885ebc.png "Antes do Dashboard")
+![Gráfico de Linhas](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-linha.png "Gráfico de Linhas")
 
 ---
 
-# ChartTabsInAngularMaterial
+> # ChartTabsInAngularMaterial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
