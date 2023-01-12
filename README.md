@@ -9,13 +9,13 @@
 
 
 
-![Gráfico de Barras](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-barras-780px.png "Gráfico de Barras")
+![Gráfico de Barras](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-barras.png "Gráfico de Barras")
 
 
-![Gráfico de Pizza](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-pizza-780px.png "Gráfico de Pizza")
+![Gráfico de Pizza](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-pizza.png "Gráfico de Pizza")
 
 
-![Gráfico de Linhas](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-linha-780px.png "Gráfico de Linhas")
+![Gráfico de Linhas](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-linha.png "Gráfico de Linhas")
 
 ![Gráfico Financeiro](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-candle-780px.png "Gráfico de Candles")
 
