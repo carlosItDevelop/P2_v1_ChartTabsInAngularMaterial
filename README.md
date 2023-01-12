@@ -17,6 +17,8 @@
 
 ![Gráfico de Linhas](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-linha.png "Gráfico de Linhas")
 
+![Gráfico Financeiro](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-financeiro.png "Gráfico de Candles")
+
 
 > index.html
 
