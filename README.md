@@ -17,7 +17,7 @@
 
 ![Gráfico de Linhas](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-linha-780px.png "Gráfico de Linhas")
 
-![Gráfico Financeiro](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-financeiro-780px.png "Gráfico de Candles")
+![Gráfico Financeiro](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-candle-780px.png "Gráfico de Candles")
 
 
 > index.html
@@ -190,8 +190,7 @@ lineChartOptions = {
           { label: 'Python', y: 35 },
           { label: 'Angular', y: 30 },
           { label: 'Asp.Net Core', y: 38 },
-          { label: 'React', y: 32 },
-
+          { label: 'React', y: 32 }
           ],
     }
     ],

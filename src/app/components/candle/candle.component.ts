@@ -29,6 +29,7 @@ export class CandleComponent {
     },
     data:[{
       type: "candlestick",
+      risingColor: "#F79B8E",
       yValueFormatString: "$##.##",
       xValueFormatString: "MMM YYYY",
       dataPoints: [
