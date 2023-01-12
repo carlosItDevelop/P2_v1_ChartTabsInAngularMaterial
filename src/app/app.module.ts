@@ -8,6 +8,7 @@ import { MatTabsModule } from '@angular/material/tabs';
 import * as CanvasJSAngularChart from '../assets/canvasjs.angular.component';
 import { NavBarComponent } from './home/nav-bar/nav-bar.component';
 import { ChartsComponent } from './components/charts/charts.component';
+import { CandleComponent } from './components/candle/candle.component';
 var CanvasJSChart = CanvasJSAngularChart.CanvasJSChart;
 
 
@@ -16,7 +17,8 @@ var CanvasJSChart = CanvasJSAngularChart.CanvasJSChart;
     AppComponent,
     CanvasJSChart,
     NavBarComponent,
-    ChartsComponent
+    ChartsComponent,
+    CandleComponent
   ],
   imports: [
     BrowserModule,
