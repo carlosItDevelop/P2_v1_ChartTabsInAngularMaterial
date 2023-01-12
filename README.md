@@ -320,6 +320,10 @@ export class CandleComponent {
 </div>   
 ```
 
+> Gráfico no modo responsivo
+
+![Gráfico de Pizza](https://github.com/carlosItDevelop/P2_v1_ChartTabsInAngularMaterial/blob/main/img/grafico-pizza-780px.png "Gráfico de Pizza")
+
 
 > # ChartTabsInAngularMaterial
 
