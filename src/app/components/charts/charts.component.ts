@@ -10,6 +10,7 @@ export class ChartsComponent {
     animationEnabled: true,
     title: {
     text: 'Gráfico em Colunas | Angular Material',
+    fontFamily: "times new roman"
     },
     data: [
     {
@@ -32,6 +33,7 @@ pieChartOptions = {
     animationEnabled: true,
     title: {
     text: 'Gráfico Pizza | Angular Material',
+    fontFamily: "times new roman"
     },
     theme: "dark2",//'light2', // "light1", "dark1", "dark2"
     data: [
@@ -54,9 +56,9 @@ lineChartOptions = {
     animationEnabled: true,
     title: {
     text: 'Gráfico em Linha | Angular Material',
-
+    fontFamily: "times new roman"
     },
-    theme: 'light2', // "light1", "dark1", "dark2"
+    theme: 'light1', // "light1", "dark1", "dark2"
     data: [
     {
         type: 'line',

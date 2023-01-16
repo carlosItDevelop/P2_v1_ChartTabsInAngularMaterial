@@ -9,14 +9,19 @@ export class CandleComponent {
 
   chartOptions = {
     exportEnabled: true, 
+		zoomEnabled: true,
     title: {
       text: "Preço da Ethereum",
+      fontFamily: "times new roman"
     },
     axisX: {
-      valueFormatString: "MMM",
+      //valueFormatString: "MMM",
+			//interval:2,
+			intervalType: "month",
+			labelAngle: -45,      
       crosshair: {
         enabled: true,
-        valueFormatString: "MMM YYYY",
+        valueFormatString: "MMM YY",
         snapToDataPoint: true
       }
     },
@@ -29,7 +34,9 @@ export class CandleComponent {
     },
     data:[{
       type: "candlestick",
-      risingColor: "#F79B8E",
+      //risingColor: "#F79B8E",
+			risingColor: "green",
+			color: "red",      
       yValueFormatString: "$##.##",
       xValueFormatString: "MMM YYYY",
       dataPoints: [

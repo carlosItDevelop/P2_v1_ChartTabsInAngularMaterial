@@ -9,6 +9,7 @@ import * as CanvasJSAngularChart from '../assets/canvasjs.angular.component';
 import { NavBarComponent } from './home/nav-bar/nav-bar.component';
 import { ChartsComponent } from './components/charts/charts.component';
 import { CandleComponent } from './components/candle/candle.component';
+import { HomeComponent } from './home/home/home.component';
 var CanvasJSChart = CanvasJSAngularChart.CanvasJSChart;
 
 
@@ -18,7 +19,8 @@ var CanvasJSChart = CanvasJSAngularChart.CanvasJSChart;
     CanvasJSChart,
     NavBarComponent,
     ChartsComponent,
-    CandleComponent
+    CandleComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
